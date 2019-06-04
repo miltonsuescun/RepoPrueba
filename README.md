@@ -103,14 +103,14 @@ La programación extrema o eXtreme Programming (XP) es un enfoque de la ingenier
 - - Trabajar junto con el equipo de Testers.
 
 - **Andres Castro**
-- - Responsable de la generación del plan de pruebas bajo la supervisión y colaboración del líder de pruebas.
+-- Responsable de la generación del plan de pruebas bajo la supervisión y colaboración del líder de pruebas.
 
-- - Líder del equipo de analistas de pruebas.
-- - Revisor principal de los resultados de cada prueba. 
-- - Analista de resultados.
-- - Trabajar junto con el equipo de Testers.
-- - Como líder y principal responsable de la documentación, debe velar por que esta esté actualizada, y cumpla con los criterios de calidad establecidos en la compañía. 
-- - Trabajar en el equipo de diseño de modelo de datos.
+-- Líder del equipo de analistas de pruebas.
+-- Revisor principal de los resultados de cada prueba. 
+-- Analista de resultados.
+-- Trabajar junto con el equipo de Testers.
+-- Como líder y principal responsable de la documentación, debe velar por que esta esté actualizada, y cumpla con los criterios de calidad establecidos en la compañía. 
+-- Trabajar en el equipo de diseño de modelo de datos.
 
 
 - **Planificación**: Se harán las historias de usuario y se planifica en qué orden se van a hacer y las mini-versiones. La planificación se revisa continuamente. 
@@ -120,21 +120,21 @@ La programación extrema o eXtreme Programming (XP) es un enfoque de la ingenier
 
 
 
-|Fecha        |  Versión|Autor          |Organización   escripción|
+|Fecha        |Versión  |  Autor        |Organización  |descripción |
 |-------------|---------|---------------|--------------|------------|
-|22/05/19|0.1|Andres Felipe Castro |DevsDesign|Creación del documento sobre la metodología|
-|23/05/19|0.2|Jorge Cárdenas|DevsDesign|Realización del CRUD|
-|24/05/19|0.3|Camilo Ramírez|DevsDesign|Componente Persistencia|
+|22/05/19 | 0.1 |Andres Felipe Castro | DevsDesign| Creación del documento sobre la metodología|
+|23/05/19 | 0.2 |Jorge Cárdenas| DevsDesign| Realización del CRUD|
+|24/05/19 | 0.3 |Camilo Ramírez| DevsDesign| Componente Persistencia|
 
 - **Diseño simple**: Gran parte del CRUD y el diseño de base de datos se realizó bajo el framework de Visual Basic .NET, el cual facilita el desarrollo el aplicativo, manteniendo un código sencillo y autodocumentado. 
 
 ## Pareja de programadores: 
 ### Pareja 1	
-- Andres Castro
-- Camilo Ramírez	
+Andres Castro
+Camilo Ramírez	
 ### Pareja 2	
-- Duvan Ramírez
-- Jorge Cárdenas	
+Duvan Ramírez
+Jorge Cárdenas	
 
 - **Desarrollo guiado por las pruebas automáticas**: Las pruebas se realizaran con software de terceros como Jenkins, Postman, Karma y Jasmin, y algunas de elaboración propia en .NET
 - **Integración continua**: En el repositorio de GitHub, habrá un ejecutable del proyecto que funcione y en cuanto se tenga una nueva pequeña funcionalidad, debe recompilarse y probarse. Es un error mantener una versión congelada dos meses mientras se hacen mejoras y luego integrarlas todas de golpe. Cuando falle algo, no se sabe qué es lo que falla de todo lo que hemos metido. 
