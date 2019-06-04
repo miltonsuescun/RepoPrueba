@@ -84,10 +84,15 @@ La programación extrema o eXtreme Programming (XP) es un enfoque de la ingenier
 - **Camilo Ramírez** :
 
 -- Arquitecto y desarrollador del prototipo.
+
 -- Colaborar con la redacción y posterior aprobación del plan de pruebas.
+
 -- Encargado de dirigir y velar por la correcta ejecución del plan de prueba.
+
 -- Liderar, dirigir y trabajar junto al equipo de testers.
+
 -- Responsable de evaluar las condiciones de término para el proceso de pruebas junto a los especialistas de pruebas y líder del proyecto.
+
 -- Hacer el respectivo entrenamiento al personal respecto a este plan de pruebas.
 
 - **Duvan Ramirez** :
