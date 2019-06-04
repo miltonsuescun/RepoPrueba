@@ -80,31 +80,30 @@ La programación extrema o eXtreme Programming (XP) es un enfoque de la ingenier
 - **Equipo completo**: Formarán parte del equipo los 4 integrantes, incluido el profesor quien actuará como cliente. 
 ### Responsabilidades
 - **Camilo Ramírez** :
-- - Arquitecto y desarrollador del prototipo.
-- - Colaborar con la redacción y posterior aprobación del plan de pruebas.
-- - Encargado de dirigir y velar por la correcta ejecución del plan de prueba.
-- - Liderar, dirigir y trabajar junto al equipo de testers.
-- - Responsable de evaluar las condiciones de término para el proceso de pruebas junto a los especialistas de pruebas y líder del proyecto.
-- - Hacer el respectivo entrenamiento al personal respecto a este plan de pruebas.
+-- Arquitecto y desarrollador del prototipo.
+-- Colaborar con la redacción y posterior aprobación del plan de pruebas.
+-- Encargado de dirigir y velar por la correcta ejecución del plan de prueba.
+-- Liderar, dirigir y trabajar junto al equipo de testers.
+-- Responsable de evaluar las condiciones de término para el proceso de pruebas junto a los especialistas de pruebas y líder del proyecto.
+-- Hacer el respectivo entrenamiento al personal respecto a este plan de pruebas.
 
 - **Duvan Ramirez** :
-- - Arquitecto y desarrollador del prototipo.
-- - Colaborar con el estudio y aprobación del plan de pruebas.
-- - Responsable de evaluar las condiciones de término para el proceso de testing junto al líder de pruebas.
-- - Liderar el área de automatización de pruebas.
-- - Colaborar con el entrenamiento al personal al inicio de la ejecución del plan de pruebas.
-- - Trabajar junto con el equipo de testers.
+-- Arquitecto y desarrollador del prototipo.
+-- Colaborar con el estudio y aprobación del plan de pruebas.
+-- Responsable de evaluar las condiciones de término para el proceso de testing junto al líder de pruebas.
+-- Liderar el área de automatización de pruebas.
+-- Colaborar con el entrenamiento al personal al inicio de la ejecución del plan de pruebas.
+-- Trabajar junto con el equipo de testers.
 
 - **Jorge Cárdenas**
-- - Trabajar en el área de automatización de pruebas.
-- - Líder y director del equipo encargado del diseño del modelo de datos.
-- - Responsable de evaluar las condiciones de término para el proceso de testing junto al líder de pruebas.
-- - Colaborar con la documentación a lo largo de la ejecución del plan de pruebas.
-- - Trabajar junto con el equipo de Testers.
+-- Trabajar en el área de automatización de pruebas.
+-- Líder y director del equipo encargado del diseño del modelo de datos.
+-- Responsable de evaluar las condiciones de término para el proceso de testing junto al líder de pruebas.
+-- Colaborar con la documentación a lo largo de la ejecución del plan de pruebas.
+-- Trabajar junto con el equipo de Testers.
 
 - **Andres Castro**
 -- Responsable de la generación del plan de pruebas bajo la supervisión y colaboración del líder de pruebas.
-
 -- Líder del equipo de analistas de pruebas.
 -- Revisor principal de los resultados de cada prueba. 
 -- Analista de resultados.
